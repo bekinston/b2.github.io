@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "28dc54758cb43e99e2d7",
-    "url": "/b2.github.io/static/js/main.1240e1c7.chunk.js"
+    "revision": "f5cb12ee269aa2ecb66f",
+    "url": "/b2.github.io/static/js/main.63c4fc5c.chunk.js"
   },
   {
     "revision": "c70420e2b667773619f6",
     "url": "/b2.github.io/static/js/runtime~main.1b94bd49.js"
   },
   {
-    "revision": "c8b9056fb38ff464883a",
+    "revision": "0d4c5153a351486fb081",
     "url": "/b2.github.io/static/css/2.ad321462.chunk.css"
   },
   {
-    "revision": "c8b9056fb38ff464883a",
-    "url": "/b2.github.io/static/js/2.96704166.chunk.js"
+    "revision": "0d4c5153a351486fb081",
+    "url": "/b2.github.io/static/js/2.6e3fc06a.chunk.js"
   },
   {
     "revision": "4c6eb969fead9db711f26bb8101c2c40",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/b2.github.io/static/media/coru.90a1a2a5.png"
   },
   {
-    "revision": "298b1d11038d85de12b8fc6342e707f8",
-    "url": "/b2.github.io/static/media/checkall.298b1d11.png"
-  },
-  {
     "revision": "8a242f005ba524caf0a46ee0a2beac02",
     "url": "/b2.github.io/static/media/el2.8a242f00.png"
+  },
+  {
+    "revision": "298b1d11038d85de12b8fc6342e707f8",
+    "url": "/b2.github.io/static/media/checkall.298b1d11.png"
   },
   {
     "revision": "833e5526be4849de0dc3dc15b239ce29",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/b2.github.io/static/media/roads.d27ae686.png"
   },
   {
-    "revision": "314189f29bc7eddba5a994848399c679",
+    "revision": "3315877dd11e5568495d02f52ca2f4b3",
     "url": "/b2.github.io/index.html"
   }
 ];
