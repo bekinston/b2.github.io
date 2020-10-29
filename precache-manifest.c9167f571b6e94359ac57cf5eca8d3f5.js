@@ -1,27 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "e1dd370c3095cb1f28fe",
-    "url": "/b2.github.io/static/js/main.d4886994.chunk.js"
+    "revision": "3bf51fd7d39b5b40fab7",
+    "url": "/b2.github.io/static/js/main.99a5fae2.chunk.js"
   },
   {
     "revision": "c70420e2b667773619f6",
     "url": "/b2.github.io/static/js/runtime~main.1b94bd49.js"
   },
   {
-    "revision": "61be33ec95767e080418",
+    "revision": "ba0a4471f8a006b679fa",
     "url": "/b2.github.io/static/css/2.ad321462.chunk.css"
   },
   {
-    "revision": "61be33ec95767e080418",
-    "url": "/b2.github.io/static/js/2.183eb1b2.chunk.js"
+    "revision": "ba0a4471f8a006b679fa",
+    "url": "/b2.github.io/static/js/2.79a4617c.chunk.js"
   },
   {
     "revision": "4c6eb969fead9db711f26bb8101c2c40",
     "url": "/b2.github.io/static/media/ug.4c6eb969.png"
-  },
-  {
-    "revision": "725110ad819ce9f3b8ca0d3340a0e64d",
-    "url": "/b2.github.io/static/media/au.725110ad.png"
   },
   {
     "revision": "90a1a2a528cfb969c2a18ae45829dfa4",
@@ -30,6 +26,10 @@ self.__precacheManifest = [
   {
     "revision": "833e5526be4849de0dc3dc15b239ce29",
     "url": "/b2.github.io/static/media/cozn.833e5526.png"
+  },
+  {
+    "revision": "725110ad819ce9f3b8ca0d3340a0e64d",
+    "url": "/b2.github.io/static/media/au.725110ad.png"
   },
   {
     "revision": "8a242f005ba524caf0a46ee0a2beac02",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/b2.github.io/static/media/checkall.298b1d11.png"
   },
   {
-    "revision": "4722334771fd1dbcb5e27fada82e0fc4",
+    "revision": "764e0cfb14334c387a2707bb5480486d",
     "url": "/b2.github.io/index.html"
   }
 ];
