@@ -24,7 +24,7 @@ class KazakhaltynLeftSideBar extends React.Component {
         this.state = {
             allChecked: true,
             list: [
-                { id: 2, name: "poi_золотоkazakhaltyn", label: "золото",isChecked: true },
+                { id: 2, name: "poi_золотоkazakhaltyn", label: <img src={au}/>,isChecked: true },
             ]
         };
     }
@@ -102,7 +102,7 @@ class KazakhaltynLeftSideBar extends React.Component {
     render() {
         return (
             <div id="sidebar" className="dropdown">
-                <label>Казахалтын</label>
+                <label className="dropbtn">Казахалтын</label>
                 <div className="dropdown-content">
                     {this.renderList()}
                 </div>

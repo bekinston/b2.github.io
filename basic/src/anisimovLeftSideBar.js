@@ -24,7 +24,7 @@ class AnisimovLeftSideBar extends React.Component {
         this.state = {
             allChecked: true,
             list: [
-                { id: 1, name: "poi_золотоanisimov", label: "золото",isChecked: true }
+                { id: 1, name: "poi_золотоanisimov", label:<img src={au}/>,isChecked: true }
             ]
         };
     }
@@ -78,7 +78,7 @@ class AnisimovLeftSideBar extends React.Component {
     render() {
         return (
             <div id="sidebar" className="dropdown">
-                <label>Анисимов Project</label>
+                <label className="dropbtn">Анисимов Project</label>
                 <div className="dropdown-content">
                     {this.renderList()}
                 </div>

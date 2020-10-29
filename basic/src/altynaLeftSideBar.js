@@ -24,7 +24,7 @@ class AltynaLeftSideBar extends React.Component {
         this.state = {
             allChecked: true,
             list: [
-                { id: 2, name: "poi_золотоaltyna", label: "золото",isChecked: true }
+                { id: 2, name: "poi_золотоaltyna", label: <img src={au}/>,isChecked: true }
             ]
         };
     }
@@ -78,7 +78,7 @@ class AltynaLeftSideBar extends React.Component {
     render() {
         return (
             <div id = "sidebar" class="dropdown">
-            <label>Алтыналамас</label>
+            <label class="dropbtn">Алтыналамас</label>
                 <div class="dropdown-content">
                     {this.renderList()}
                 </div>

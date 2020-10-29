@@ -24,12 +24,12 @@ class KazakhmysLeftSideBar extends React.Component {
         this.state = {
             allChecked: true,
             list: [
-                { id: 1, name:'poi_угольkazakhmys', label: "уголь", isChecked: true},
-                { id: 3, name: "poi_медная рудаkazakhmys", label: "медная руда", isChecked: true },
-                { id: 7, name: "poi_производствоkazakhmys", label: "производство", isChecked: true },
-                { id: 8, name: "poi_переработкаkazakhmys", label: "переработка",isChecked: true },
-                { id: 9, name: "poi_энергетикаkazakhmys", label: "энергетика", isChecked: true },
-                { id: 10, name: "poi_ЛЭПlep", label: "ЛЭП",isChecked: true },
+                { id: 1, name:'poi_угольkazakhmys', label: <img src={ug}/>, isChecked: true},
+                { id: 3, name: "poi_медная рудаkazakhmys", label: <img src={coru}/>, isChecked: true },
+                { id: 7, name: "poi_производствоkazakhmys", label: <img src={pro}/>, isChecked: true },
+                { id: 8, name: "poi_переработкаkazakhmys", label: <img src={re}/>,isChecked: true },
+                { id: 9, name: "poi_энергетикаkazakhmys", label: <img src={el2}/>, isChecked: true },
+                { id: 10, name: "poi_ЛЭПlep", label: <img src={lep}/>,isChecked: true },
             ]
         };
     }
@@ -83,7 +83,7 @@ class KazakhmysLeftSideBar extends React.Component {
     render() {
         return (
             <div id="sidebar" className="dropdown">
-                <label>Казахмыс</label>
+                <label className="dropbtn">Казахмыс</label>
                 <div className="dropdown-content">
                     {this.renderList()}
                     <input
@@ -94,7 +94,7 @@ class KazakhmysLeftSideBar extends React.Component {
                         onChange={this.handleChange}
                         id="Kazakhmys"
                     />
-                    <label htmlFor={"Kazakhmys"} onClick={this.state.allChecked}>отметить/снять все</label>
+                    <label htmlFor={"Kazakhmys"} onClick={this.state.allChecked}><img src={checkAll}/></label>
                 </div>
 
             </div>

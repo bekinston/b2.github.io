@@ -103,7 +103,7 @@ class KazmineralsLeftSideBar extends React.Component {
     render() {
         return (
             <div id="sidebar" className="dropdown">
-                <label>Kazminerals</label>
+                <label className="dropbtn">Kazminerals</label>
                 <div className="dropdown-content">
                     {this.renderList()}
                     <input
@@ -114,7 +114,7 @@ class KazmineralsLeftSideBar extends React.Component {
                         onChange={this.handleChange}
                         id="Kazminerals"
                     />
-                    <label htmlFor={"Kazminerals"} onClick={this.state.allChecked}>отметить/снять все</label>
+                    <label htmlFor={"Kazminerals"} onClick={this.state.allChecked}><img src={checkAll}/></label>
                 </div>
 
             </div>

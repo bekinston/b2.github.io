@@ -24,8 +24,8 @@ class VertexLeftSideBar extends React.Component {
         this.state = {
             allChecked: true,
             list: [
-                { id: 1, name:'poi_угольvertex', label: "уголь", isChecked: true},
-                { id: 6, name: "poi_железная рудаvertex", label: "железная руда",isChecked: true },
+                { id: 1, name:'poi_угольvertex', label: <img src={ug}/>, isChecked: true},
+                { id: 6, name: "poi_железная рудаvertex", label: <img src={fe}/>,isChecked: true },
             ]
         };
     }
@@ -103,7 +103,7 @@ class VertexLeftSideBar extends React.Component {
     render() {
         return (
             <div id="sidebar" className="dropdown">
-                <label>Vertex</label>
+                <label className="dropbtn">Vertex</label>
                 <div className="dropdown-content">
                     {this.renderList()}
                     <input
@@ -114,7 +114,7 @@ class VertexLeftSideBar extends React.Component {
                         onChange={this.handleChange}
                         id="vertex"
                     />
-                    <label htmlFor={"vertex"} onClick={this.state.allChecked}>отметить/снять все</label>
+                    <label htmlFor={"vertex"} onClick={this.state.allChecked}><img src={checkAll}/></label>
                 </div>
 
             </div>

@@ -23,6 +23,7 @@ import "mapbox-gl-infobox/styles.css";
 import {MapboxStyleDefinition} from "mapbox-gl-style-switcher";
 import MapboxDraw from "@mapbox/mapbox-gl-draw";
 import '@mapbox/mapbox-gl-draw/dist/mapbox-gl-draw.css';
+import DisableAll from "./DisableAll";
 
 
 class MapboxInfoBoxOptions {
@@ -656,8 +657,9 @@ class Map extends React.Component {
   render() {
     return (
       <div>
-          <AltynaLeftSideBar onLayerDisable={this.onLayerDisable}/>
+          <DisableAll onLayerDisable={this.onLayerDisable}/>
           <KazakhmysLeftSideBar onLayerDisable={this.onLayerDisable}/>
+          <AltynaLeftSideBar onLayerDisable={this.onLayerDisable}/>
           <AnisimovLeftSideBar onLayerDisable={this.onLayerDisable}/>
           <AsiaLeftSideBar onLayerDisable={this.onLayerDisable}/>
           <KazakhaltynLeftSideBar onLayerDisable={this.onLayerDisable}/>

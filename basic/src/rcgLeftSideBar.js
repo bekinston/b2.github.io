@@ -24,10 +24,9 @@ class RcgLeftSideBar extends React.Component {
         this.state = {
             allChecked: true,
             list: [
-                { id: 2, name: "poi_угольrcg", label: "уголь", isChecked: true },
-
-                { id: 3, name: "poi_медная рудаrcg", label: "медная руда", isChecked: true },
-                { id: 4, name: "poi_вольфрамrcg", label:"вольфрам" ,isChecked: true },
+                { id: 2, name: "poi_угольrcg", label: <img src={ug}/>, isChecked: true },
+                { id: 3, name: "poi_медная рудаrcg", label: <img src={coru}/>, isChecked: true },
+                { id: 4, name: "poi_вольфрамrcg", label:<img src={vo}/> ,isChecked: true },
             ]
         };
     }
@@ -105,7 +104,7 @@ class RcgLeftSideBar extends React.Component {
     render() {
         return (
             <div id="sidebar" className="dropdown">
-                <label>RCG</label>
+                <label className="dropbtn">RCG</label>
                 <div className="dropdown-content">
                     {this.renderList()}
                     <input
@@ -116,7 +115,7 @@ class RcgLeftSideBar extends React.Component {
                         onChange={this.handleChange}
                         id="rcg"
                     />
-                    <label htmlFor={"rcg"} onClick={this.state.allChecked}>отметить/снять все</label>
+                    <label htmlFor={"rcg"} onClick={this.state.allChecked}><img src={checkAll}/></label>
                 </div>
 
             </div>

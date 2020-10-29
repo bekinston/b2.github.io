@@ -28,46 +28,86 @@
 sidebar,
     .dropbtn {
       position:relative;
-      background-color: #4CAF50;
-      color: white;
-      padding: 16px;
-      font-size: 16px;
-      border: none;
-  z-index: 900;
+      font-weight: bold;
+      color: #a2c6d7;
+       border: none;
+       z-index: 900;
+
     }
+    .dropbtn  input[type='checkbox'] + label {
+      display: block;
+      cursor: pointer;
+    }
+
+    .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
     .dropdown {
       z-index: 2;
       top:10px;
       left:10px;
       position:relative;
-      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      font-color:white;
       padding: 10px 10px 10px 10px;
-      background-color: #f1f1f1;
+      background-color: #212832;
       display: inline-block;
     }
     .dropdown-content {
-      padding: 10px 10px 10px 10px;
       display: none;
       position: absolute;
-      background-color: #f1f1f1;
-      min-width: 160px;
-      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      top:44px;
+      width: 230px;
+      background-color: rgba(33, 40, 50, 0.48);
+      -webkit-box-shadow: 2px 1px 5px -1px rgba(0,0,0,0.75);
+      -moz-box-shadow: 2px 1px 5px -1px rgba(0,0,0,0.75);
+      box-shadow: 2px 1px 5px -1px rgba(0,0,0,0.75);
       z-index: 1;
     }
-
-    .dropdown-content a {
-      color: black;
-      padding: 12px 16px;
-      text-decoration: none;
-      display: block;
+    .dropdown-content label{
+      padding: 10px 10px 10px 10px;
     }
 
-    .dropdown-content a:hover {background-color: #ddd;}
+    .dropdown-content input[type='checkbox']:first-child + label {
+      cursor: pointer;
+      display: block;
+      padding: 10px 10px 10px 10px;
+      color: #7f8992;
+      position: relative;
+      -webkit-transition: all 0.4s ease;
+      -o-transition: all 0.4s ease;
+      transition: all 0.4s ease;
+    }
+    .dropdown-content label:last-child {
+      border-bottom: 0;
+    }
+
+    .dropdown-content input[type='checkbox'] {
+      display: none;
+    }
+
+    .dropdown-content input[type='checkbox'] + label {
+      display: block;
+      cursor: pointer;
+    }
+
+    .dropdown-content input[type='checkbox'] + label {
+      text-transform: capitalize;
+    }
+
+    .dropdown-content input[type='checkbox']:checked + label {
+      background-color: #212832;
+    }
+
+    .dropdown-content input[type='checkbox']:checked + label:before {
+      margin-right: 5px;
+    }
+
+
+    .dropdown-content label:hover {;
+      background-color: #ddd;}
 
     .dropdown:hover .dropdown-content {display: block;}
 
-    .dropdown:hover .dropbtn {background-color: #3e8e41;}
+    .dropdown:hover .dropbtn {background-color: #7f8992;}
 
     .map-overlay {
       position: fixed;
