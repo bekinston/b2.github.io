@@ -8643,9 +8643,9 @@ class App extends React.Component {
 
   render() {
     return (
+        <div><Map data={data}
+        /></div>
 
-        <Map data={data}
-        />
     );
   }
 }

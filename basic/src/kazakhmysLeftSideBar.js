@@ -29,9 +29,7 @@ class KazakhmysLeftSideBar extends React.Component {
                 { id: 7, name: "poi_производствоkazakhmys", label: "производство", isChecked: true },
                 { id: 8, name: "poi_переработкаkazakhmys", label: "переработка",isChecked: true },
                 { id: 9, name: "poi_энергетикаkazakhmys", label: "энергетика", isChecked: true },
-                { id: 10, name: "poi_ЛЭПlep", label: "lep",isChecked: true },
-                { id: 11, name: "poi_Дорогиroad", label: "road",isChecked: true },
-                { id: 12, name: "poi_Железные Дорогиrail", label: 'rail', isChecked: true }
+                { id: 10, name: "poi_ЛЭПlep", label: "ЛЭП",isChecked: true },
             ]
         };
     }
@@ -84,26 +82,21 @@ class KazakhmysLeftSideBar extends React.Component {
 
     render() {
         return (
-            <div id = "sidebar" className="filter-group">
-                <div className="wrap">
-                    <nav>
-                        <ul className="primary">
-                            <li>
-                                <input
-                                    type="checkbox"
-                                    name="Kazakhmys"
-                                    checked={this.state.allChecked}
-                                    onChange={this.handleChange}
-                                    id = "Kazakhmys"
-                                />
-                                <label htmlFor={"Kazakhmys"} onClick={this.state.allChecked}>Kazakhmys</label>
-                                <ul className="sub">
-                                    <li>{this.renderList()}</li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </nav>
+            <div id="sidebar" className="dropdown">
+                <label>Казахмыс</label>
+                <div className="dropdown-content">
+                    {this.renderList()}
+                    <input
+                        type="checkbox"
+                        name="Kazakhmys"
+                        className="dropbtn"
+                        checked={this.state.allChecked}
+                        onChange={this.handleChange}
+                        id="Kazakhmys"
+                    />
+                    <label htmlFor={"Kazakhmys"} onClick={this.state.allChecked}>отметить/снять все</label>
                 </div>
+
             </div>
         );
     }

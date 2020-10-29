@@ -77,26 +77,12 @@ class AltynaLeftSideBar extends React.Component {
 
     render() {
         return (
-            <div id = "sidebar" className="filter-group">
-                <div className="wrap">
-                    <nav>
-                        <ul className="primary">
-                            <li>
-                                <input
-                                    type="checkbox"
-                                    name="altyna"
-                                    checked={this.state.allChecked}
-                                    onChange={this.handleChange}
-                                    id = "altyna"
-                                />
-                                    <label htmlFor={"altyna"} onClick={this.state.allChecked}>Altynalamas</label>
-                                <ul className="sub">
-                                    <li>{this.renderList()}</li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </nav>
+            <div id = "sidebar" class="dropdown">
+            <label>Алтыналамас</label>
+                <div class="dropdown-content">
+                    {this.renderList()}
                 </div>
+
             </div>
         );
     }

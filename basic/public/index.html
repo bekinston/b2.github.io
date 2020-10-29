@@ -24,82 +24,50 @@
     #app > div > div.absolute.top.right.left.bottom.mapboxgl-map > div.mapboxgl-control-container > div.mapboxgl-ctrl-bottom-right > div.mapboxgl-ctrl.mapboxgl-ctrl-group.mapboxgl-ctrl-zoom > button:nth-child(2){
       PADDING-LEFT: 3px;
     }
-    .sidebar1,
 
-    .filter-group1 {
-      font: 12px/20px -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-      font-weight: 600;
-      position: relative;
-      top: 20px;
-      left: 10px;
-      z-index: 2;
-      width: 80px;
-      background-color: rgba(33, 40, 50, 0.48);
-      -webkit-box-shadow: 2px 1px 5px -1px rgba(0,0,0,0.75);
-      -moz-box-shadow: 2px 1px 5px -1px rgba(0,0,0,0.75);
-      box-shadow: 2px 1px 5px -1px rgba(0,0,0,0.75);
+sidebar,
+    .dropbtn {
+      position:relative;
+      background-color: #4CAF50;
+      color: white;
+      padding: 16px;
+      font-size: 16px;
+      border: none;
+  z-index: 900;
     }
 
-    .sidebar,
-
-    .filter-group {
-      font: 12px/20px -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-      font-weight: 600;
-      position: relative;
-      top: 20px;
-      left: 10px;
+    .dropdown {
       z-index: 2;
-      width: 230px;
-      background-color: rgba(33, 40, 50, 0.48);
-      -webkit-box-shadow: 2px 1px 5px -1px rgba(0,0,0,0.75);
-      -moz-box-shadow: 2px 1px 5px -1px rgba(0,0,0,0.75);
-      box-shadow: 2px 1px 5px -1px rgba(0,0,0,0.75);
-    }
-
-    .sidebar{
       top:10px;
       left:10px;
-      width:100px;
-      height:10px;
-      z-index: 2;
-      position: relative;
-    }
-
-    .filter-group input[type='checkbox']:first-child + label {
-      cursor: pointer;
-      display: block;
+      position:relative;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
       padding: 10px 10px 10px 10px;
-      color: #7f8992;
-      position: relative;
-      -webkit-transition: all 0.4s ease;
-      -o-transition: all 0.4s ease;
-      transition: all 0.4s ease;
+      background-color: #f1f1f1;
+      display: inline-block;
     }
-    .filter-group label:last-child {
-      border-bottom: 0;
-    }
-
-    .filter-group input[type='checkbox'] {
+    .dropdown-content {
+      padding: 10px 10px 10px 10px;
       display: none;
+      position: absolute;
+      background-color: #f1f1f1;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
     }
 
-    .filter-group input[type='checkbox'] + label {
+    .dropdown-content a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
       display: block;
-      cursor: pointer;
     }
 
-    .filter-group input[type='checkbox'] + label {
-      text-transform: capitalize;
-    }
+    .dropdown-content a:hover {background-color: #ddd;}
 
-    .filter-group input[type='checkbox']:checked + label {
-      background-color: #212832;
-    }
+    .dropdown:hover .dropdown-content {display: block;}
 
-    .filter-group input[type='checkbox']:checked + label:before {
-      margin-right: 5px;
-    }
-
+    .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
     .map-overlay {
       position: fixed;

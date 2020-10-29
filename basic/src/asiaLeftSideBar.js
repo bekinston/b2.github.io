@@ -13,7 +13,7 @@ import roads from './logos/roads.png'
 import ug from './logos/ug.png'
 import vo from './logos/vo.png'
 import checkAll from './logos/checkall.png'
-const companyID = ['anisimov'];
+const companyID = ['asia'];
 const categoryID = ['poi_уголь','poi_золото',"poi_медная руда","poi_вольфрам","poi_медная-цинковая руда","poi_железная руда","poi_производство","poi_переработка","poi_энергетика","poi_ЛЭП","poi_Дороги","poi_Железные Дороги"];
 
 const category_id =[];
@@ -24,7 +24,7 @@ class AsiaLeftSideBar extends React.Component {
         this.state = {
             allChecked: true,
             list: [
-                { id: 2, name: "poi_золотоanisimov", label: <img src={au}/>,isChecked: true }
+                { id: 2, name: "poi_золотоasia", label: "золото",isChecked: true }
             ]
         };
     }
@@ -36,7 +36,7 @@ class AsiaLeftSideBar extends React.Component {
         this.props.onLayerDisable(itemName, checked);
         this.setState(prevState => {
             let { list, allChecked } = prevState;
-            if (itemName === "checkAll") {
+            if (itemName === "asia") {
                 allChecked = checked;
                 list = list.map(item => ({...item, isChecked: checked}));
                 if (allChecked === false) {
@@ -77,29 +77,12 @@ class AsiaLeftSideBar extends React.Component {
 
     render() {
         return (
-            <div id = "nav">
-                <div className="wrap">
-                    <span className="decor"></span>
-                    <nav>
-                        <ul className="primary2">
-                            <li>
-                                <a><input
-                                    type="checkbox"
-                                    name="checkAll"
-                                    checked={this.state.allChecked}
-                                    onChange={this.handleChange}
-                                    id = "check"
-                                />
-                                    <label htmlFor={"check"} onClick={this.state.allChecked}>Anisimov</label></a>
-                                <ul className="sub">
-                                    <li>{this.renderList()}</li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </nav>
+            <div id="sidebar" className="dropdown">
+                <label>Глобал Азия М</label>
+                <div className="dropdown-content">
+                    {this.renderList()}
                 </div>
-            </div>
-        );
+            </div>        );
     }
 }
 

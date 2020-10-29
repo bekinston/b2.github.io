@@ -77,26 +77,12 @@ class AnisimovLeftSideBar extends React.Component {
 
     render() {
         return (
-            <div id = "sidebar" className="filter-group">
-                <div className="wrap">
-                    <nav>
-                        <ul className="primary">
-                            <li>
-                                <input
-                                    type="checkbox"
-                                    name="Anisimov"
-                                    checked={this.state.allChecked}
-                                    onChange={this.handleChange}
-                                    id = "Anisimov"
-                                />
-                                <label htmlFor={"Anisimov"} onClick={this.state.allChecked}>Anisimov</label>
-                                <ul className="sub">
-                                    <li>{this.renderList()}</li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </nav>
+            <div id="sidebar" className="dropdown">
+                <label>Анисимов Project</label>
+                <div className="dropdown-content">
+                    {this.renderList()}
                 </div>
+
             </div>
         );
     }

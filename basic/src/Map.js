@@ -657,8 +657,16 @@ class Map extends React.Component {
     return (
       <div>
           <AltynaLeftSideBar onLayerDisable={this.onLayerDisable}/>
+          <KazakhmysLeftSideBar onLayerDisable={this.onLayerDisable}/>
           <AnisimovLeftSideBar onLayerDisable={this.onLayerDisable}/>
-          <KazakhmysLeftSideBar onLayerDisable = {this.onLayerDisable}/>
+          <AsiaLeftSideBar onLayerDisable={this.onLayerDisable}/>
+          <KazakhaltynLeftSideBar onLayerDisable={this.onLayerDisable}/>
+          <KazmineralsLeftSideBar onLayerDisable={this.onLayerDisable}/>
+          <RcgLeftSideBar onLayerDisable={this.onLayerDisable}/>
+          <SamrukLeftSideBar onLayerDisable={this.onLayerDisable}/>
+          <VertexLeftSideBar onLayerDisable={this.onLayerDisable}/>
+          <ZhetLeftSideBar onLayerDisable={this.onLayerDisable}/>
+
           <div ref={this.mapRef} className="absolute top right left bottom" />
           <FilterBox map_ready={this.state.is_map_ready} map={this.map} data={this.props.data} onLayerDisable={this.onLayerDisable} category={this.state.curr_category} layers_id={this.state.layers_id} />
       </div>

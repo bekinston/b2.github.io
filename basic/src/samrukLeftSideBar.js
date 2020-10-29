@@ -24,18 +24,7 @@ class SamrukLeftSideBar extends React.Component {
         this.state = {
             allChecked: true,
             list: [
-                { id: 1, name:'poi_угольkazakhmys', label: <img src={ug}/>, isChecked: true},
-                { id: 2, name: "poi_золото", label: <img src={au}/>,isChecked: true },
-                { id: 3, name: "poi_медная руда", label: <img src={coru}/>, isChecked: true },
-                { id: 4, name: "poi_вольфрам", label: <img src={vo}/>,isChecked: true },
-                { id: 5, name: "poi_медная-цинковая руда", label: <img src={cozn}/>, isChecked: true },
-                { id: 6, name: "poi_железная руда", label: <img src={fe}/>,isChecked: true },
-                { id: 7, name: "poi_производство", label: <img src={pro}/>, isChecked: true },
-                { id: 8, name: "poi_переработка", label: <img src={re}/>,isChecked: true },
-                { id: 9, name: "poi_энергетика", label: <img src={el2}/>, isChecked: true },
-                { id: 10, name: "poi_ЛЭП", label: <img src={lep}/>,isChecked: true },
-                { id: 11, name: "poi_Дороги", label: <img src={roads}/>,isChecked: true },
-                { id: 12, name: "poi_Железные Дороги", label: <img src={rail}/>, isChecked: true }
+                { id: 9, name: "poi_энергетикаsamruk", label: "энергетика", isChecked: true },
             ]
         };
     }
@@ -47,7 +36,7 @@ class SamrukLeftSideBar extends React.Component {
             this.props.onLayerDisable(itemName, checked);
             this.setState(prevState => {
             let { list, allChecked } = prevState;
-            if (itemName === "checkAll") {
+            if (itemName === "samruk") {
                 allChecked = checked;
                 list = list.map(item => ({...item, isChecked: checked}));
                 if (allChecked === false) {
@@ -112,16 +101,12 @@ class SamrukLeftSideBar extends React.Component {
 
     render() {
         return (
-            <div id = "sidebar8" className="filter-group8">
-                <input
-                    type="checkbox"
-                    name="checkAll"
-                    checked={this.state.allChecked}
-                    onChange={this.handleChange}
-                    id = "check"
-                />
-                <label htmlFor={"check"} onClick={this.state.allChecked}><img src={checkAll}/></label>
-                {this.renderList()}
+            <div id="sidebar" className="dropdown">
+                <label>Самрук Энерго</label>
+                <div className="dropdown-content">
+                    {this.renderList()}
+                </div>
+
             </div>
         );
     }
