@@ -24,6 +24,7 @@ import {MapboxStyleDefinition} from "mapbox-gl-style-switcher";
 import MapboxDraw from "@mapbox/mapbox-gl-draw";
 import '@mapbox/mapbox-gl-draw/dist/mapbox-gl-draw.css';
 import DisableAll from "./DisableAll";
+import InfoLeftSideBar from "./infoLeftSideBar";
 
 
 class MapboxInfoBoxOptions {
@@ -642,7 +643,7 @@ class Map extends React.Component {
                 },
                 localGeocoderOnly: true,
                 placeholder: 'Поиск',
-            }), 'top-right');
+            }), 'bottom-left');
 
 
         this.map.addControl(new MapboxStyleSwitcherControl(styles), "bottom-right");
@@ -668,6 +669,8 @@ class Map extends React.Component {
           <SamrukLeftSideBar onLayerDisable={this.onLayerDisable}/>
           <VertexLeftSideBar onLayerDisable={this.onLayerDisable}/>
           <ZhetLeftSideBar onLayerDisable={this.onLayerDisable}/>
+          <InfoLeftSideBar onLayerDisable={this.onLayerDisable}/>
+
 
           <div ref={this.mapRef} className="absolute top right left bottom" />
           <FilterBox map_ready={this.state.is_map_ready} map={this.map} data={this.props.data} onLayerDisable={this.onLayerDisable} category={this.state.curr_category} layers_id={this.state.layers_id} />

@@ -13,18 +13,20 @@ import roads from './logos/roads.png'
 import ug from './logos/ug.png'
 import vo from './logos/vo.png'
 import checkAll from './logos/checkall.png'
-const companyID = ['anisimov'];
+const companyID = ['lep','road','rail'];
 const categoryID = ['poi_уголь','poi_золото',"poi_медная руда","poi_вольфрам","poi_медная-цинковая руда","poi_железная руда","poi_производство","poi_переработка","poi_энергетика","poi_ЛЭП","poi_Дороги","poi_Железные Дороги"];
 
 const category_id =[];
 
-class AnisimovLeftSideBar extends React.Component {
+class InfoLeftSideBar extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
             allChecked: true,
             list: [
-                { id: 1, name: "poi_золотоanisimov", label:<img src={au}/>,isChecked: true }
+                { id: 10, name: "poi_ЛЭПlep", label: <img src={lep}/>,isChecked: true },
+                { id: 11, name: "poi_Дорогиroad", label: <img src={roads}/>,isChecked: true },
+                { id: 12, name: "poi_Железные Дорогиrail", label: <img src={rail}/>, isChecked: true }
             ]
         };
     }
@@ -36,19 +38,43 @@ class AnisimovLeftSideBar extends React.Component {
         this.props.onLayerDisable(itemName, checked);
         this.setState(prevState => {
             let { list, allChecked } = prevState;
-            if (itemName === "Anisimov") {
+            if (itemName === "Info") {
                 allChecked = checked;
                 list = list.map(item => ({...item, isChecked: checked}));
                 if (allChecked === false) {
                     console.log(allChecked);
                     for (let i = 0; i < categoryID.length; i++){
                         this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[11], !this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[12], !this.state);
 
                     }}
                 if (allChecked === true) {
                     console.log(allChecked);
                     for (let i = 0; i < categoryID.length; i++){
                         this.props.onLayerDisable(categoryID[i]+companyID[0], this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[1], this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[2], this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[3], this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[4], this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[5], this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[6], this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[7], this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[8], this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[9], this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[10], this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[11], this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[12], this.state);
                     }}
 
             }
@@ -78,9 +104,18 @@ class AnisimovLeftSideBar extends React.Component {
     render() {
         return (
             <div id="sidebar" className="dropdown">
-                <label className="dropbtn">Анисимов Project</label>
+                <label className="dropbtn">Инфраструктура</label>
                 <div className="dropdown-content">
                     {this.renderList()}
+                    <input
+                        type="checkbox"
+                        name="Info"
+                        className="dropbtn"
+                        checked={this.state.allChecked}
+                        onChange={this.handleChange}
+                        id="Info"
+                    />
+                    <label htmlFor={"Info"} onClick={this.state.allChecked}><img src={checkAll}/></label>
                 </div>
 
             </div>
@@ -88,4 +123,4 @@ class AnisimovLeftSideBar extends React.Component {
     }
 }
 
-export default AnisimovLeftSideBar;
+export default InfoLeftSideBar;

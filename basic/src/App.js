@@ -5793,245 +5793,6 @@ const data =  {
             '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
             +'<hr>\n' +
             '   <ul>\n' +
-            '     <li>ВЛ -220 кВ </li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            72.7986, 49.5125
-          ],
-          [
-            79.643306,46.959167
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-35кВ от ПС-110/35/6кВ Шу на ПС-2х6300/35/6кВ р.Шатыркуль </li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            72.7986, 49.5125
-          ],
-          [
-            74.263056,43.616944
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-35кВ от ПС-35/6кВ. «Мезек» на ПС-2500-35/6 кВ р.Кусмурын </li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            77.42125511169434,
-            48.874594774822924
-          ],
-          [
-            77.706489,
-            48.643696
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-35кВ отпайка от ВЛ на ПС-2500-35/6 кВ р.Кусмурын до КТП 35/0,4 скважина р.Кусмурын</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            77.706489,
-            48.643696
-          ],
-          [
-            78.262983,49.045269
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-35кВ отпайка от ВЛ на ПС-2500-35/6 кВ р.Кусмурын до КТП 35/0,4 скважина р.Кусмурын</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-
-          [
-            73.63311767578125,
-            49.85569332253434
-
-          ],
-          [
-            76.49316787719727,
-            49.42392727883298
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-35кВ от ПС-110/35/10кВ «Бахтинская» на ПС-35/6 кВ р.«Абыз»</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-
-          [
-            73.63311767578125,
-            49.85569332253434
-
-          ],
-          [
-            76.49316787719727,
-            49.42392727883298
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-110кВ от «ГРЭС-Топар» до ПС 110/6кВ «Нурказган»</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-
-          [
-            72.79201984405518,
-            49.51281043819422
-          ],
-          [
-            73.015469,50.290981
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-
-          [
-            72.9766845703125,
-            49.930008124606886
-          ],
-          [
-            73.640444,50.267639
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
             '     <li>ВЛ-110кВ "5С","7С"</li>\n' +
             '   </ul>\n' +
             '   <hr>',
@@ -6209,107 +5970,2500 @@ const data =  {
       },
       'geometry': {
         'type': 'LineString',
-        'coordinates':
+        'coordinates':[
             [
-              [
-                67.74794340133667,
-                47.784961083532664
-              ],
-              [
-                67.472141,47.883385
-              ]
-            ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-110кВ 16С </li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            67.74794340133667,
-            47.784961083532664
-          ],
-          [
-            67.472141,47.983385
-          ]
-        ]
-      }
-    },
-
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-35кВ "Златауст"-1</li>\n' +
-            '     <li>ВЛ-35кВ "Златауст"-2</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            67.5324,47.8999
-          ],
-          [
-            67.474035, 48.167345
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-35кВ УВС-1с отпайкой на ЦРП-Карабулак 1,2</li>\n' +
-            '     <li>ВЛ-35кВ УВС-2</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            67.74794340133667,
-            47.784961083532664
-          ],
-          [
+              67.74794340133667,
+              47.784961083532664
+            ],
+        [
             67.472141,47.883385
-          ]
-        ]
-      }
-    },
+  ]
+]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-110кВ 16С </li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.74794340133667,
+      47.784961083532664
+    ],
+    [
+      67.472141,47.983385
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-110кВ"Мибулак-Жомарт"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.53424, 47.84999
+    ],
+    [
+      67.41423153,47.87427304
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ "Златауст"-1</li>\n' +
+  '     <li>ВЛ-35кВ "Златауст"-2</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.5324,47.8999
+    ],
+    [
+      67.474035, 48.167345
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ УВС-1с отпайкой на ЦРП-Карабулак 1,2</li>\n' +
+  '     <li>ВЛ-35кВ УВС-2</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.74794340133667,
+      47.784961083532664
+    ],
+    [
+      67.472141,47.883385
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35 кВ "АСК-2Ю" отпайка на ЦРП-Карсакбай</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.403028,47.828687
+    ],
+    [
+      66.7316,47.831
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35 кВ  "Юго-Западный портал"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.403028,47.828687
+    ],
+    [
+      67.428372,47.899896
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35 кВ "АСК-2Ю" отпайка на ЦРП-Жанай</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.403028,47.828687
+    ],
+    [
+      67.413153,47.877304
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ УВС-3</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.74794340133667,
+      47.784961083532664
+    ],
+    [
+      67.472141,47.883385
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ 18Ц</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.74794340133667,
+      47.784961083532664
+    ],
+    [
+      66.731655,47.839713
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ 19Ц</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.74794340133667,
+      47.784961083532664
+    ],
+    [
+      67.472141,47.883385
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ 17Ц</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.74794340133667,
+      47.784961083532664
+    ],
+    [
+      66.731655,47.839713
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ ПР-1,ПР-2</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.5324,47.8999
+    ],
+    [
+      66.731655,47.839713
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ "9 Ц" , "10 Ц"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.74794340133667,
+      47.784961083532664
+    ],
+    [
+      74.977472, 46.940667
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ "15 Ц","16 Ц"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.74794340133667,
+      47.784961083532664
+    ],
+    [
+      67.472141,47.883385
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ -35 кВ 1 Ц</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.74794340133667,
+      47.784961083532664
+    ],
+    [
+      67.413153,47.877304
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ -35 кВ 3 Ц</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.74794340133667,
+      47.784961083532664
+    ],
+    [
+      67.472141,47.883385
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ -35 кВ 11 Ц, 13Ц</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.74794340133667,
+      47.784961083532664
+    ],
+    [
+      67.413153,47.877304
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ЛЭП №3 ВЛ-35кВ</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      74.91439819335938,
+      46.860777906337255
+    ],
+    [
+      74.977472, 46.940667
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-110кВ №108</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      74.91439819335938,
+      46.860777906337255
+    ],
+    [
+      74.946528,46.840444
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-110кВ №108</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      74.91439819335938,
+      46.860777906337255
+    ],
+    [
+      74.946528,46.840444
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-110кВ №112</li>\n' +
+  '     <li>ВЛ-110кВ №113</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      74.91439819335938,
+      46.860777906337255
+    ],
+    [
+      74.944556,46.832944
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ  35кВ</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      77.377444,46.910111
+    ],
+    [
+      77.377444,44.910111
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-110кВ №117</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      77.377444,46.910111
+    ],
+    [
+      74.138168,46.978479
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ 110 КВ №114,115 ОТ БТЭЦ  ДО  ПОДСТАНЦИИ  220/110 КВ КОНЫРАТ (3025)</li>\n' +
+  '     <li>ВЛ-35кВ №31</li>\n' +
+  '     <li>ВЛ-35кВ №32</li>\n' +
+
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      77.377444,46.910111
+    ],
+    [
+      74.9968, 46.9553
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-110кВ "5С","7С"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      67.5324, 47.8999
+    ],
+    [
+      67.413153,47.877304
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ -220 кВ </li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      72.7986, 49.5125
+    ],
+    [
+      79.859,46.9486
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС-110/35/6кВ Шу на ПС-2х6300/35/6кВ р.Шатыркуль </li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      72.7986, 49.5125
+    ],
+    [
+      74.263056,43.616944
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС-35/6кВ. «Мезек» на ПС-2500-35/6 кВ р.Кусмурын </li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      77.42125511169434,
+      48.874594774822924
+    ],
+    [
+      77.706489,
+      48.643696
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ отпайка от ВЛ на ПС-2500-35/6 кВ р.Кусмурын до КТП 35/0,4 скважина р.Кусмурын</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      77.706489,
+      48.643696
+    ],
+    [
+      78.262983,49.045269
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ отпайка от ВЛ на ПС-2500-35/6 кВ р.Кусмурын до КТП 35/0,4 скважина р.Кусмурын</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+
+    [
+      73.63311767578125,
+      49.85569332253434
+
+    ],
+    [
+      76.49316787719727,
+      49.42392727883298
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС-110/35/10кВ «Бахтинская» на ПС-35/6 кВ р.«Абыз»</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+
+    [
+      73.63311767578125,
+      49.85569332253434
+
+    ],
+    [
+      76.49316787719727,
+      49.42392727883298
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-110кВ от «ГРЭС-Топар» до ПС 110/6кВ «Нурказган»</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+
+    [
+      72.79201984405518,
+      49.51281043819422
+    ],
+    [
+      73.015469,50.290981
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+
+    [
+      72.9766845703125,
+      49.930008124606886
+    ],
+    [
+      73.640444,50.267639
+    ]
+  ]
+}
+},
+
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      75.4744005203247,
+      52.02231614397895
+    ],
+    [
+      75.47199726104736,
+      52.02728060073391
+    ],
+    [
+      75.47019481658936,
+      52.02691752749481
+    ],
+    [
+      75.46994805335999,
+      52.02693733156565
+    ],
+    [
+      75.46963691711426,
+      52.02703635178846
+    ],
+    [
+      75.46855330467224,
+      52.02753805088097
+    ],
+    [
+      75.46650409698486,
+      52.02667327656635
+    ],
+    [
+      75.46521663665771,
+      52.026118755992876
+    ],
+    [
+      75.46500205993652,
+      52.025168133298976
+    ],
+    [
+      75.4667615890503,
+      52.022025653380595
+    ],
+    [
+      75.4685640335083,
+      52.01867167075001
+    ],
+    [
+      75.46903610229492,
+      52.01463071202152
+    ],
+    [
+      75.46993732452393,
+      52.00715529696299
+    ],
+    [
+      75.47096729278563,
+      51.99870102633301
+    ],
+    [
+      75.4709243774414,
+      51.997485593655135
+    ],
+    [
+      75.47010898590088,
+      51.99463183941821
+    ],
+    [
+      75.46448707580566,
+      51.989769468797626
+    ],
+    [
+      75.44732093811034,
+      51.97605156729463
+    ],
+    [
+      75.43320178985596,
+      51.96441845630598
+    ],
+    [
+      75.40706634521484,
+      51.943577064340815
+    ],
+    [
+      75.34046173095703,
+      51.890053935216926
+    ],
+    [
+      75.32604217529297,
+      51.87797461918475
+    ],
+    [
+      75.32535552978516,
+      51.87384147639979
+    ],
+    [
+      75.3274154663086,
+      51.83683823374741
+    ],
+    [
+      75.32861709594727,
+      51.81317839268047
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      71.98068380355835,
+      52.47859835330476
+    ],
+    [
+      71.98270082473755,
+      52.47888586950758
+    ],
+    [
+      71.98458909988402,
+      52.479291002786255
+    ],
+    [
+      71.98559761047362,
+      52.47980068128972
+    ],
+    [
+      71.98439598083496,
+      52.48032342233942
+    ],
+    [
+      71.98289394378662,
+      52.480519448631775
+    ],
+    [
+      71.98064088821411,
+      52.48125127240632
+    ],
+    [
+      71.97619915008545,
+      52.4813819539422
+    ],
+    [
+      71.97454690933228,
+      52.480806952280744
+    ],
+    [
+      71.9737958908081,
+      52.479291002786255
+    ],
+    [
+      71.97358131408691,
+      52.47279535197878
+    ],
+    [
+      71.97319507598877,
+      52.47126605530744
+    ],
+    [
+      71.97100639343262,
+      52.46904390560954
+    ],
+    [
+      71.96963310241699,
+      52.468024293493464
+    ],
+    [
+      71.96961164474487,
+      52.46765827312639
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      61.182861328125,
+      54.00776876193478
+    ],
+    [
+      61.622314453125,
+      54.02713344412541
+    ],
+    [
+      63.072509765625,
+      53.27178347923819
+    ],
+    [
+      63.6328125,
+      53.199451902831555
+    ],
+    [
+      66.59912109375,
+      53.14677033085082
+    ],
+    [
+      67.060546875,
+      53.461890432859114
+    ],
+    [
+      68.48876953125,
+      53.50111704294316
+    ],
+    [
+      69.4775390625,
+      53.27835301753182
+    ],
+    [
+      70.11474609375,
+      52.81604319154934
+    ],
+    [
+      71.69677734375,
+      53.05442186546102
+    ],
+    [
+      73.916015625,
+      52.214338608258196
+    ],
+    [
+      75.37375,
+      51.88492391360244
+    ],
+    [
+      75.5419921875,
+      52.10519075632
+    ],
+    [
+      76.256103515625,
+      52.119998657638156
+    ],
+    [
+      76.7724609375,
+      51.84256565377846
+    ],
+    [
+      77.3876953125,
+      51.82219818336938
+    ],
+    [
+      78.936767578125,
+      52.1874047455997
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      69.49951171875,
+      53.28163740806336
+    ],
+    [
+      70.51025390625,
+      52.66638915420003
+    ],
+    [
+      71.9549560546875,
+      52.46939684276205
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      71.9659423828125,
+      52.482780222078226
+    ],
+    [
+      71.7352294921875,
+      51.74403752566788
+    ],
+    [
+      71.4935302734375,
+      51.27909868682927
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      73.05633544921875,
+      52.481107522268495
+    ],
+    [
+      71.97418212890625,
+      52.47441608702583
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      73.0645751953125,
+      52.49281508540494
+    ],
+    [
+      72.7734375,
+      51.795027225829145
+    ],
+    [
+      71.729736328125,
+      51.730430542940184
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      63.56689453124999,
+      53.166533500950905
+    ],
+    [
+      64.9951171875,
+      52.51622086393074
+    ],
+    [
+      66.37939453125,
+      51.876490970614775
+    ],
+    [
+      68.26904296875,
+      51.6180165487737
+    ],
+    [
+      71.455078125,
+      51.25503952021694
+    ],
+    [
+      75.509033203125,
+      51.62483746174322
+    ],
+    [
+      75.38818359375,
+      51.88327296443745
+    ],
+    [
+      78.035888671875,
+      51.138001488062564
+    ],
+    [
+      78.804931640625,
+      50.49246334187725
+    ],
+    [
+      80.18920898437499,
+      50.3734961443035
+    ],
+    [
+      80.947265625,
+      50.42951794712287
+    ],
+    [
+      81.7822265625,
+      50.69471783819287
+    ],
+    [
+      81.7822265625,
+      50.86144411058924
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      70.82061767578125,
+      50.22085199853943
+    ],
+    [
+      71.4935302734375,
+      51.28081671677971
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      81.78497314453125,
+      50.69471783819287
+    ],
+    [
+      82.60620117187499,
+      50.21909462044748
+    ],
+    [
+      83.57299804687499,
+      49.656960786759136
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      82.5018310546875,
+      50.13290377086724
+    ],
+    [
+      82.6116943359375,
+      50.21557967003726
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      82.53204345703125,
+      50.68949806239989
+    ],
+    [
+      81.78359985351562,
+      50.697327508282626
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      82.52655029296875,
+      50.68949806239989
+    ],
+    [
+      82.67486572265625,
+      50.42601852427907
+    ],
+    [
+      82.61444091796875,
+      50.21557967003726
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      82.034912109375,
+      50.65294336725709
+    ],
+    [
+      82.34527587890625,
+      50.623330620643436
+    ],
+    [
+      82.5238037109375,
+      50.68775800806201
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      82.6116943359375,
+      50.21733717761366
+    ],
+    [
+      83.06488037109375,
+      50.46274956681952
+    ],
+    [
+      83.6224365234375,
+      50.53263460481829
+    ],
+    [
+      84.01519775390625,
+      50.53961742235125
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      81.5570068359375,
+      49.31438004800689
+    ],
+    [
+      81.15600585937499,
+      50.03950183762877
+    ],
+    [
+      81.0186767578125,
+      50.698197366045534
+    ],
+    [
+      81.0736083984375,
+      51.18622962638683
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      81.55426025390625,
+      49.316170534557585
+    ],
+    [
+      82.44140625,
+      48.951366470947725
+    ],
+    [
+      82.452392578125,
+      48.41097247934197
+    ],
+    [
+      84.122314453125,
+      47.628380027447136
+    ],
+    [
+      84.715576171875,
+      47.56911375866714
+    ],
+    [
+      85.550537109375,
+      48.16608541901253
+    ],
+    [
+      84.1717529296875,
+      48.39273786659243
+    ],
+    [
+      84.7210693359375,
+      49.224772722794825
+    ],
+    [
+      84.04541015625,
+      49.866316729538674
+    ],
+    [
+      83.5675048828125,
+      49.66051672522669
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      71.5045166015625,
+      51.25503952021694
+    ],
+    [
+      72.66357421875,
+      50.534380406110806
+    ],
+    [
+      72.784423828125,
+      50.09767914064942
+    ],
+    [
+      72.41912841796875,
+      48.90625412315376
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      72.79403686523438,
+      49.514510112029
+    ],
+    [
+      72.82974243164061,
+      49.75997752330658
+    ],
+    [
+      72.6800537109375,
+      49.522534003908106
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      72.828369140625,
+      49.759090381472014
+    ],
+    [
+      72.67868041992188,
+      49.75997752330658
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      72.784423828125,
+      50.100762330354975
+    ],
+    [
+      72.92999267578125,
+      50.16590332915412
+    ],
+    [
+      73.00003051757812,
+      50.153586157731304
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      72.88330078125,
+      49.998029518286025
+    ],
+    [
+      72.90115356445312,
+      50.04501407709112
+    ],
+    [
+      72.83523559570312,
+      50.0857849787494
+    ],
+    [
+      72.78579711914062,
+      50.09856007224113
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      73.399658203125,
+      50.240178884797025
+    ],
+    [
+      72.78305053710938,
+      50.101202769829456
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      72.65808105468749,
+      50.53612614279661
+    ],
+    [
+      73.31451416015625,
+      50.508186602590555
+    ],
+    [
+      73.6578369140625,
+      50.8510411296595
+    ],
+    [
+      74.96246337890625,
+      51.570241445811234
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      72.83111572265625,
+      49.76175175828224
+    ],
+    [
+      73.14147949218749,
+      49.758203223406184
+    ],
+    [
+      73.5479736328125,
+      49.930008124606886
+    ],
+    [
+      73.948974609375,
+      49.86366109677629
+    ],
+    [
+      74.608154296875,
+      49.738681639280024
+    ],
+    [
+      74.80728149414062,
+      49.920282935651905
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      75.05035400390625,
+      49.60982006821737
+    ],
+    [
+      74.60403442382812,
+      49.73956915445477
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      75.7342529296875,
+      49.37164333826142
+    ],
+    [
+      75.0421142578125,
+      49.61426925505115
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      80.233154296875,
+      50.391010070956696
+    ],
+    [
+      79.0411376953125,
+      50.548344490674786
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      79.0576171875,
+      50.551834865795165
+    ],
+    [
+      78.73901367187499,
+      50.01832895590886
+    ],
+    [
+      77.40966796875,
+      49.60003042758964
+    ],
+    [
+      77.420654296875,
+      48.87194147722911
+    ],
+    [
+      77.7008056640625,
+      48.61838518688487
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      77.40966796875,
+      49.60136549433547
+    ],
+    [
+      77.06497192382812,
+      49.49935027965391
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      75.7342529296875,
+      49.37175511542515
+    ],
+    [
+      75.90866088867186,
+      49.484854871957445
+    ],
+    [
+      76.22795104980469,
+      49.360911547126165
+    ],
+    [
+      76.42982482910156,
+      49.37276109846143
+    ],
+    [
+      76.4933395385742,
+      49.42437391023319
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      74.0203857421875,
+      49.966680947252286
+    ],
+    [
+      73.89335632324219,
+      49.87339770318919
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':  [
+    [
+      61.73762798309326,
+      51.2928411273273
+    ],
+    [
+      61.753592491149895,
+      51.28452100021084
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      61.75363540649413,
+      51.28462836628995
+    ],
+    [
+      61.75003051757812,
+      52.4794347588594
+    ],
+    [
+      63.56698036193848,
+      53.166430591341964
+    ],
+    [
+      63.49771499633789,
+      53.21682673983011
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':[
+    [
+      74.81163740158081,
+      49.92303215815456
+    ],
+    [
+      74.805908203125,
+      49.91856977300248
+    ],
+    [
+      74.80623006820679,
+      49.91932965104455
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates':[
+    [
+      75.0421142578125,
+      49.61428315812345
+    ],
+    [
+      75.05037546157837,
+      49.60982006821737
+    ],
+    [
+      75.05370140075684,
+      49.60752579756259
+    ]
+  ]
+}
+},
+{
+  'name': 'ЛЭП',
+    'properties': {
+  'title': 'ЛЭП',
+      'color': '#ff8c8c',
+      'stroke-width': 5,
+      'category': 'lep',
+      'description':
+  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
+  +'<hr>\n' +
+  '   <ul>\n' +
+  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '   </ul>\n' +
+  '   <hr>',
+
+},
+  'geometry': {
+  'type': 'LineString',
+      'coordinates': [
+    [
+      74.91439819335938,
+      46.86080725070221
+    ],
+    [
+      74.94594097137451,
+      46.831748477646876
+    ],
+    [
+      74.92079257965088,
+      46.799560026251385
+    ]
+  ]
+}
+},
     {
       'name': 'ЛЭП',
       'properties': {
@@ -6319,570 +8473,23 @@ const data =  {
         'category': 'lep',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
+            + '<hr>\n' +
             '   <ul>\n' +
-            '     <li>ВЛ-35 кВ "АСК-2Ю" отпайка на ЦРП-Карсакбай</li>\n' +
+            '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
             '   </ul>\n' +
             '   <hr>',
 
       },
       'geometry': {
         'type': 'LineString',
-        'coordinates':  [
+        'coordinates': [
           [
-            67.403028,47.828687
+            82.5018310546875,
+            50.13295878907585
           ],
           [
-            66.7316,47.831
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-35 кВ  "Юго-Западный портал"</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            67.403028,47.828687
-          ],
-          [
-            67.428372,47.899896
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-35 кВ "АСК-2Ю" отпайка на ЦРП-Жанай</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            67.403028,47.828687
-          ],
-          [
-            67.413153,47.877304
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-35кВ УВС-3</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            67.74794340133667,
-            47.784961083532664
-          ],
-          [
-            67.472141,47.883385
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-35кВ 18Ц</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            67.74794340133667,
-            47.784961083532664
-          ],
-          [
-            66.731655,47.839713
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-35кВ 19Ц</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            67.74794340133667,
-            47.784961083532664
-          ],
-          [
-            67.472141,47.883385
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-35кВ 17Ц</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            67.74794340133667,
-            47.784961083532664
-          ],
-          [
-            66.731655,47.839713
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-35кВ ПР-1,ПР-2</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            67.5324,47.8999
-          ],
-          [
-            66.731655,47.839713
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-35кВ "9 Ц" , "10 Ц"</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            67.74794340133667,
-            47.784961083532664
-          ],
-          [
-            74.977472, 46.940667
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-35кВ "15 Ц","16 Ц"</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            67.74794340133667,
-            47.784961083532664
-          ],
-          [
-            67.472141,47.883385
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ -35 кВ 1 Ц</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            67.74794340133667,
-            47.784961083532664
-          ],
-          [
-            67.413153,47.877304
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ -35 кВ 3 Ц</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            67.74794340133667,
-            47.784961083532664
-          ],
-          [
-            67.472141,47.883385
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ -35 кВ 11 Ц, 13Ц</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            67.74794340133667,
-            47.784961083532664
-          ],
-          [
-            67.413153,47.877304
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ЛЭП №3 ВЛ-35кВ</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            74.91439819335938,
-            46.860777906337255
-          ],
-          [
-            74.977472, 46.940667
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-110кВ №108</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            74.91439819335938,
-            46.860777906337255
-          ],
-          [
-            74.946528,46.840444
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-110кВ №108</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            74.91439819335938,
-            46.860777906337255
-          ],
-          [
-            74.946528,46.840444
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-110кВ №112</li>\n' +
-            '     <li>ВЛ-110кВ №113</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            74.91439819335938,
-            46.860777906337255
-          ],
-          [
-            74.944556,46.832944
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ  35кВ</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            77.377444,46.910111
-          ],
-          [
-            74.977472, 46.940667
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ 110 КВ №114,115 ОТ БТЭЦ  ДО  ПОДСТАНЦИИ  220/110 КВ КОНЫРАТ (3025)</li>\n' +
-            '     <li>ВЛ-35кВ №31</li>\n' +
-            '     <li>ВЛ-35кВ №32</li>\n' +
-
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            77.377444,46.910111
-          ],
-          [
-            74.977361,46.940806
-          ]
-        ]
-      }
-    },
-    {
-      'name': 'ЛЭП',
-      'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
-        'stroke-width': 5,
-        'category': 'lep',
-        'description':
-            '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-            +'<hr>\n' +
-            '   <ul>\n' +
-            '     <li>ВЛ-110кВ "5С","7С"</li>\n' +
-            '   </ul>\n' +
-            '   <hr>',
-
-      },
-      'geometry': {
-        'type': 'LineString',
-        'coordinates':  [
-          [
-            67.5324, 47.8999
-          ],
-          [
-            67.413153,47.877304
+            82.50852584838866,
+            50.13073050102662
           ]
         ]
       }

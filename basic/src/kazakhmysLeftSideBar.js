@@ -29,7 +29,6 @@ class KazakhmysLeftSideBar extends React.Component {
                 { id: 7, name: "poi_производствоkazakhmys", label: <img src={pro}/>, isChecked: true },
                 { id: 8, name: "poi_переработкаkazakhmys", label: <img src={re}/>,isChecked: true },
                 { id: 9, name: "poi_энергетикаkazakhmys", label: <img src={el2}/>, isChecked: true },
-                { id: 10, name: "poi_ЛЭПlep", label: <img src={lep}/>,isChecked: true },
             ]
         };
     }
