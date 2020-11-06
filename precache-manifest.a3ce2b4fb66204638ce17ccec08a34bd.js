@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "9ae910b92a8a5c4834cd",
-    "url": "/b2.github.io/static/js/main.dd56f94e.chunk.js"
+    "revision": "8d6fec178b8102d9a842",
+    "url": "/b2.github.io/static/js/main.773a397f.chunk.js"
   },
   {
     "revision": "c70420e2b667773619f6",
     "url": "/b2.github.io/static/js/runtime~main.1b94bd49.js"
   },
   {
-    "revision": "223c732db340e9660d7d",
+    "revision": "57ef496b9fd4b562cf78",
     "url": "/b2.github.io/static/css/2.ad321462.chunk.css"
   },
   {
-    "revision": "223c732db340e9660d7d",
-    "url": "/b2.github.io/static/js/2.1b87a340.chunk.js"
+    "revision": "57ef496b9fd4b562cf78",
+    "url": "/b2.github.io/static/js/2.02dd54cb.chunk.js"
   },
   {
     "revision": "4c6eb969fead9db711f26bb8101c2c40",
@@ -64,7 +64,11 @@ self.__precacheManifest = [
     "url": "/b2.github.io/static/media/vo.89bd8f7b.png"
   },
   {
-    "revision": "1b3e792adf552162d770a92799d02596",
+    "revision": "3b0444d5d69b99727ac9302a20065391",
+    "url": "/b2.github.io/static/media/lepk.3b0444d5.png"
+  },
+  {
+    "revision": "202bc0c02f2baefdb4380e43442a7c33",
     "url": "/b2.github.io/index.html"
   }
 ];
