@@ -13,7 +13,7 @@ import roads from './logos/roads.png'
 import ug from './logos/ug.png'
 import vo from './logos/vo.png'
 import checkAll from './logos/checkallshort.png'
-const companyID = ['kazakhmys','kazminerals','rcg','kazakhaltyn','anisimov','altyna','vertex','samruk','zhet','asia','lep','road','rail'];
+const companyID = ['kazakhmys','kazminerals','rcg','kazakhaltyn','anisimov','altyna','vertex','samruk','zhet','asia','lep','road','rail','lepk'];
 const categoryID = ['poi_уголь','poi_золото',"poi_медная руда","poi_вольфрам","poi_медная-цинковая руда","poi_железная руда","poi_производство","poi_переработка","poi_энергетика","poi_ЛЭП","poi_Дороги","poi_Железные Дороги"];
 
 const category_id =[];
@@ -66,6 +66,7 @@ class DisableAll extends React.Component {
                             this.props.onLayerDisable(categoryID[i]+companyID[10], !this.state);
                             this.props.onLayerDisable(categoryID[i]+companyID[11], !this.state);
                             this.props.onLayerDisable(categoryID[i]+companyID[12], !this.state);
+                            this.props.onLayerDisable(categoryID[i]+companyID[13], !this.state);
 
                         }}
                     if (allChecked === true) {
@@ -84,6 +85,7 @@ class DisableAll extends React.Component {
                             this.props.onLayerDisable(categoryID[i]+companyID[10], this.state);
                             this.props.onLayerDisable(categoryID[i]+companyID[11], this.state);
                             this.props.onLayerDisable(categoryID[i]+companyID[12], this.state);
+                            this.props.onLayerDisable(categoryID[i]+companyID[13], !this.state);
                         }}
 
                 }

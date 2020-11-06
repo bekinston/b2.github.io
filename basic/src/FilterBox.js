@@ -1,5 +1,7 @@
 import React from 'react'
-
+import red from './logos/red.png'
+import blue from './logos/blue.png'
+import green from './logos/green.png'
 
 
 class FilterBox extends React.Component{
@@ -60,8 +62,11 @@ class FilterBox extends React.Component{
             },
             'paint': {
               'line-color': ['get', 'color'],
+              'line-width': 3,
+              'line-opacity':0.5,
+
             },
-            'filter': ['==', 'title', name],
+            'filter':['all',['==','title',name],['==','category',company]],
           });
 
           layers_id.push([layerID, name]);
@@ -92,6 +97,13 @@ class FilterBox extends React.Component{
         <div>
           <div id="map-overlay" className="map-overlay">
             <li>Добро пожаловать на интерактивную карту KAZAKHMYS</li>
+          </div>
+          <div id="legend" className="legend">
+            <ul><a>Условные обозначения ЛЭП</a></ul>
+
+            <ul><img src={red} width={40} height={12} /><a>       ВЛ-220кВ</a></ul>
+            <ul><img src={green} width={40} height={12} /><a>       ВЛ-110кВ</a></ul>
+            <ul><img src={blue} width={40} height={12} /><a>       ВЛ-35кВ</a></ul>
           </div>
         </div>
     );

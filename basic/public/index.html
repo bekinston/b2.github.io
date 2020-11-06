@@ -109,13 +109,14 @@ sidebar,
 
     .dropdown:hover .dropbtn {background-color: #7f8992;}
 
-    .map-overlay {
+    .legend{
+      padding: 10px 10px 10px 10px;
       position: fixed;
       width: 200px;
-      height: 180px;
-      overflow: scroll;
-      right: 50px;
-      bottom: 30px;
+      height: 100px;
+      right: 10px;
+      top: 10px;
+      display: block;
       font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
       background-color: #EAEAEA;
       color: #3B5877;
@@ -124,6 +125,32 @@ sidebar,
       -webkit-border-radius: 10px 10px 10px 10px;
       border: 0px solid #000000;
       box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+
+    .legend a{
+      font-weight: 600;
+    }
+
+    .map-overlay {
+      position: fixed;
+      width: 200px;
+      height: 180px;
+      overflow: scroll;
+      right: 50px;
+      bottom: 30px;
+      display: block;
+      font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+      background-color: #EAEAEA;
+      color: #3B5877;
+      border-radius: 10px 10px 10px 10px;
+      -moz-border-radius: 10px 10px 10px 10px;
+      -webkit-border-radius: 10px 10px 10px 10px;
+      border: 0px solid #000000;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+
+    .map-overlay::-webkit-scrollbar {
+      display: none;
     }
       .map-overlay h1{
         background: #3B5877;

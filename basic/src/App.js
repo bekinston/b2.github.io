@@ -14,7 +14,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -37,7 +37,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -60,7 +60,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -83,7 +83,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -106,7 +106,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -129,7 +129,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -152,7 +152,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -175,7 +175,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -198,7 +198,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -221,7 +221,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -244,7 +244,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -267,7 +267,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -290,7 +290,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -313,7 +313,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -336,7 +336,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -359,7 +359,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -382,7 +382,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -405,7 +405,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -428,7 +428,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -451,7 +451,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -474,7 +474,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -497,7 +497,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -520,7 +520,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -543,7 +543,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -566,7 +566,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -589,7 +589,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -612,7 +612,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -635,7 +635,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -658,7 +658,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -681,7 +681,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -704,7 +704,7 @@ const data =  {
       'properties': {
         'name': 'подстанция',
         'title': 'подстанция',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >подстанция</h1></p>'
@@ -727,7 +727,7 @@ const data =  {
       'properties': {
         'name': 'ГПП-1 ',
         'title': 'ГПП-1 ',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ГПП-1 </h1></p>'
@@ -749,7 +749,7 @@ const data =  {
       'properties': {
         'name': 'ГПП-3 ',
         'title': 'ГПП-3 ',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ГПП-1 </h1></p>'
@@ -771,7 +771,7 @@ const data =  {
       'properties': {
         'name': 'ГПП-4 ',
         'title': 'ГПП-4',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ГПП-4 </h1></p>'
@@ -793,7 +793,7 @@ const data =  {
       'properties': {
         'name': 'ГПП-1 ',
         'title': 'ГПП-1 ',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ГПП-1 </h1></p>'
@@ -815,7 +815,7 @@ const data =  {
       'properties': {
         'name': 'ПС "Коунрад"',
         'title': 'ПС "Коунрад"',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ПС "Коунрад"</h1></p>'
@@ -837,7 +837,7 @@ const data =  {
       'properties': {
         'name': 'ПС "Актогай"',
         'title': 'ПС "Актогай"',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ПС "Актогай"</h1></p>'
@@ -859,7 +859,7 @@ const data =  {
       'properties': {
         'name': 'бахтинская"',
         'title': 'бахтиская"',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ПС "Актогай"</h1></p>'
@@ -882,7 +882,7 @@ const data =  {
       'properties': {
         'name': 'ПС-2х6300/35/6кВ р.Шатыркуль',
         'title': 'ПС-2х6300/35/6кВ р.Шатыркуль',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ГПП-1 </h1></p>'
@@ -904,7 +904,7 @@ const data =  {
       'properties': {
         'name': 'ПС-2500-35/6 кВ р.Кусмурын',
         'title': 'ПС-2500-35/6 кВ р.Кусмурын',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ПС-2500-35/6 кВ р.Кусмурын</h1></p>'
@@ -926,7 +926,7 @@ const data =  {
       'properties': {
         'name': 'КТП 35/0,4 скважина р.Кусмурын',
         'title': 'КТП 35/0,4 скважина р.Кусмурын',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ГПП-1 </h1></p>'
@@ -947,7 +947,7 @@ const data =  {
       'properties': {
         'name': 'ПС-35/6 кВ р.«Абыз»',
         'title': 'ПС-35/6 кВ р.«Абыз»',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ПС-35/6 кВ р.«Абыз»</h1></p>'
@@ -969,7 +969,7 @@ const data =  {
       'properties': {
         'name': 'ГПП-1 ',
         'title': 'ГПП-1 ',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ГПП-1 </h1></p>'
@@ -991,7 +991,7 @@ const data =  {
       'properties': {
         'name': 'ГПП-1 ',
         'title': 'ГПП-1 ',
-        'category':'lep',
+        'category':'lepk',
         'icon': 'au-state-2',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ПС 35/6 "Самарская"</h1></p>'
@@ -2182,7 +2182,7 @@ const data =  {
       'name': 'Дороги',
       'properties': {
         'title': 'Дороги',
-        'color': '#00d9b2',// red
+        'color': '#a9a9a9',// red
         'category': 'road',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Техническая Дорога</h1>'
@@ -4686,8 +4686,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -4733,8 +4734,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -4814,8 +4816,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -4847,8 +4850,10 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
+
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -5020,8 +5025,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -5061,8 +5067,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -5126,8 +5133,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -5327,8 +5335,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -5372,8 +5381,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -5757,9 +5767,9 @@ const data =  {
       'name': 'ЛЭП',
       'properties': {
         'title': 'ЛЭП',
-        'color': '#ff8c8c',
+        'color': '#218359',
         'stroke-width': 5,
-        'category': 'lep',
+        'category': 'lepk',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
             +'<hr>\n' +
@@ -5786,9 +5796,9 @@ const data =  {
       'name': 'ЛЭП',
       'properties': {
         'title': 'ЛЭП',
-        'color': '#ff8c8c',
+        'color': '#218359',
         'stroke-width': 5,
-        'category': 'lep',
+        'category': 'lepk',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
             +'<hr>\n' +
@@ -5814,9 +5824,9 @@ const data =  {
       'name': 'ЛЭП',
       'properties': {
         'title': 'ЛЭП',
-        'color': '#ff8c8c',
+        'color': '#218359',
         'stroke-width': 5,
-        'category': 'lep',
+        'category': 'lepk',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
             +'<hr>\n' +
@@ -5842,9 +5852,9 @@ const data =  {
       'name': 'ЛЭП',
       'properties': {
         'title': 'ЛЭП',
-        'color': '#ff8c8c',
+        'color': '#218359',
         'stroke-width': 5,
-        'category': 'lep',
+        'category': 'lepk',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
             +'<hr>\n' +
@@ -5870,8 +5880,8 @@ const data =  {
     {
       'name': 'ЛЭП',
       'properties': {
-        'title': 'ЛЭП',
-        'color': '#ff8c8c',
+        'title': 'ЛЭПК',
+        'color': '#218359',
         'stroke-width': 5,
         'category': 'lep',
         'description':
@@ -5900,9 +5910,9 @@ const data =  {
       'name': 'ЛЭП',
       'properties': {
         'title': 'ЛЭП',
-        'color': '#ff8c8c',
+        'color': '#218359',
         'stroke-width': 5,
-        'category': 'lep',
+        'category': 'lepk',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
             +'<hr>\n' +
@@ -5928,9 +5938,9 @@ const data =  {
       'name': 'ЛЭП',
       'properties': {
         'title': 'ЛЭП',
-        'color': '#ff8c8c',
+        'color': '#218359',
         'stroke-width': 5,
-        'category': 'lep',
+        'category': 'lepk',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
             +'<hr>\n' +
@@ -5956,9 +5966,9 @@ const data =  {
       'name': 'ЛЭП',
       'properties': {
         'title': 'ЛЭП',
-        'color': '#ff8c8c',
+        'color': '#218359',
         'stroke-width': 5,
-        'category': 'lep',
+        'category': 'lepk',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
             +'<hr>\n' +
@@ -5983,68 +5993,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
-      'description':
-  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-  +'<hr>\n' +
-  '   <ul>\n' +
-  '     <li>ВЛ-110кВ 16С </li>\n' +
-  '   </ul>\n' +
-  '   <hr>',
-
-},
-  'geometry': {
-  'type': 'LineString',
-      'coordinates':  [
-    [
-      67.74794340133667,
-      47.784961083532664
-    ],
-    [
-      67.472141,47.983385
-    ]
-  ]
-}
-},
-{
-  'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
-      'stroke-width': 5,
-      'category': 'lep',
-      'description':
-  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-  +'<hr>\n' +
-  '   <ul>\n' +
-  '     <li>ВЛ-110кВ"Мибулак-Жомарт"</li>\n' +
-  '   </ul>\n' +
-  '   <hr>',
-
-},
-  'geometry': {
-  'type': 'LineString',
-      'coordinates':  [
-    [
-      67.53424, 47.84999
-    ],
-    [
-      67.41423153,47.87427304
-    ]
-  ]
-}
-},
-{
-  'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
-      'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6069,11 +6022,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6099,11 +6052,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6127,11 +6080,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6155,11 +6108,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6183,11 +6136,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6212,11 +6165,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6240,12 +6193,12 @@ const data =  {
 }
 },
 {
-  'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'name': 'ЛЭПс',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6270,11 +6223,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6299,11 +6252,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6327,11 +6280,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6356,11 +6309,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6385,11 +6338,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6414,11 +6367,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6443,11 +6396,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6472,11 +6425,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6501,11 +6454,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭПК',
+      'color': '#218359',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6530,11 +6483,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#218359',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6559,11 +6512,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#218359',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6589,39 +6542,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#218359',
       'stroke-width': 5,
-      'category': 'lep',
-      'description':
-  '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
-  +'<hr>\n' +
-  '   <ul>\n' +
-  '     <li>ВЛ  35кВ</li>\n' +
-  '   </ul>\n' +
-  '   <hr>',
-
-},
-  'geometry': {
-  'type': 'LineString',
-      'coordinates':  [
-    [
-      77.377444,46.910111
-    ],
-    [
-      77.377444,44.910111
-    ]
-  ]
-}
-},
-{
-  'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
-      'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6645,11 +6570,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#218359',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6676,11 +6601,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#218359',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6704,11 +6629,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#ff0700',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6732,11 +6657,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6760,11 +6685,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6790,11 +6715,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6819,11 +6744,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6851,11 +6776,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6883,11 +6808,11 @@ const data =  {
 },
 {
   'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'properties': {
+    'title': 'ЛЭП',
+      'color': '#218359',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -6915,14 +6840,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -6946,14 +6871,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7068,14 +6993,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7150,14 +7075,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7240,14 +7165,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7274,14 +7199,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7305,12 +7230,12 @@ const data =  {
 }
 },
 {
-  'name': 'ЛЭП',
-    'properties': {
-  'title': 'ЛЭП',
-      'color': '#ff8c8c',
+  'name': 'ЛЭП Казахмыс',
+  'properties': {
+    'title': 'ЛЭПК',
+      'color': '#4671D5',
       'stroke-width': 5,
-      'category': 'lep',
+      'category': 'lepk',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
@@ -7338,14 +7263,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7372,14 +7297,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7446,14 +7371,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7476,14 +7401,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7510,14 +7435,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7540,14 +7465,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7570,14 +7495,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7604,14 +7529,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7638,14 +7563,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7676,14 +7601,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7714,14 +7639,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7776,14 +7701,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7814,14 +7739,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7848,14 +7773,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7878,14 +7803,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7912,14 +7837,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7950,14 +7875,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -7980,14 +7905,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -8018,14 +7943,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -8064,14 +7989,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -8094,14 +8019,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -8124,14 +8049,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -8154,14 +8079,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -8196,14 +8121,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -8226,14 +8151,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -8268,14 +8193,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -8298,14 +8223,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -8328,14 +8253,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -8366,14 +8291,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -8400,14 +8325,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -8434,14 +8359,14 @@ const data =  {
   'name': 'ЛЭП',
     'properties': {
   'title': 'ЛЭП',
-      'color': '#ff8c8c',
+      'color': '#ff0700',
       'stroke-width': 5,
       'category': 'lep',
       'description':
   '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
   +'<hr>\n' +
   '   <ul>\n' +
-  '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+  '     <li></li>\n' +
   '   </ul>\n' +
   '   <hr>',
 
@@ -8468,14 +8393,14 @@ const data =  {
       'name': 'ЛЭП',
       'properties': {
         'title': 'ЛЭП',
-        'color': '#ff8c8c',
+        'color': '#ff0700',
         'stroke-width': 5,
         'category': 'lep',
         'description':
             '<h1 style="font-weight: bold"; align="center"; >ЛЭП</h1></p>'
             + '<hr>\n' +
             '   <ul>\n' +
-            '     <li>ВЛ-35кВ от ПС "Астаховка" до ПС 35/6 "Самарская"</li>\n' +
+            '     <li></li>\n' +
             '   </ul>\n' +
             '   <hr>',
 
@@ -8499,8 +8424,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -8712,8 +8638,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -8789,8 +8716,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -8870,8 +8798,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -8911,8 +8840,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -8952,8 +8882,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -9033,8 +8964,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -9074,8 +9006,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -9199,8 +9132,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -9292,8 +9226,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -9337,8 +9272,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -9366,8 +9302,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -9419,8 +9356,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -9616,8 +9554,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -9673,8 +9612,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -9710,8 +9650,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -9935,8 +9876,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -10004,8 +9946,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -10049,8 +9992,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -10082,8 +10026,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 
@@ -10119,8 +10064,9 @@ const data =  {
       'name': 'Железные Дороги',
       'properties': {
         'title': 'Железные Дороги',
-        'color': '#c7c7c7',
+        'color': '#000000',
         'category': 'rail',
+        "line-dasharray": [3, 3],
         'description':
             '<h1 style="font-weight: bold"; align="center"; >Железная Дорога</h1>'
 

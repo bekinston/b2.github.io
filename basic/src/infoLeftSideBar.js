@@ -13,8 +13,9 @@ import roads from './logos/roads.png'
 import ug from './logos/ug.png'
 import vo from './logos/vo.png'
 import checkAll from './logos/checkall.png'
-const companyID = ['lep','road','rail'];
-const categoryID = ['poi_уголь','poi_золото',"poi_медная руда","poi_вольфрам","poi_медная-цинковая руда","poi_железная руда","poi_производство","poi_переработка","poi_энергетика","poi_ЛЭП","poi_Дороги","poi_Железные Дороги"];
+import lepk from './logos/lepk.png'
+const companyID = ['lep','road','rail','lepk'];
+const categoryID = ["poi_ЛЭП","poi_Дороги","poi_Железные Дороги"];
 
 const category_id =[];
 
@@ -24,9 +25,10 @@ class InfoLeftSideBar extends React.Component {
         this.state = {
             allChecked: true,
             list: [
-                { id: 10, name: "poi_ЛЭПlep", label: <img src={lep}/>,isChecked: true },
-                { id: 11, name: "poi_Дорогиroad", label: <img src={roads}/>,isChecked: true },
-                { id: 12, name: "poi_Железные Дорогиrail", label: <img src={rail}/>, isChecked: true }
+                { id: 1, name: "poi_ЛЭПlepk", label: <img src={lepk}/>,isChecked: true },
+                { id: 2, name: "poi_ЛЭПlep", label: <img src={lep}/>,isChecked: true },
+                { id: 3, name: "poi_Дорогиroad", label: <img src={roads}/>,isChecked: true },
+                { id: 4, name: "poi_Железные Дорогиrail", label: <img src={rail}/>, isChecked: true }
             ]
         };
     }
@@ -45,18 +47,10 @@ class InfoLeftSideBar extends React.Component {
                     console.log(allChecked);
                     for (let i = 0; i < categoryID.length; i++){
                         this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[0], !this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[11], !this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[12], !this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[1], !this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[2], !this.state);
+                        this.props.onLayerDisable(categoryID[i]+companyID[3], !this.state);
+
 
                     }}
                 if (allChecked === true) {
@@ -66,15 +60,6 @@ class InfoLeftSideBar extends React.Component {
                         this.props.onLayerDisable(categoryID[i]+companyID[1], this.state);
                         this.props.onLayerDisable(categoryID[i]+companyID[2], this.state);
                         this.props.onLayerDisable(categoryID[i]+companyID[3], this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[4], this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[5], this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[6], this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[7], this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[8], this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[9], this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[10], this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[11], this.state);
-                        this.props.onLayerDisable(categoryID[i]+companyID[12], this.state);
                     }}
 
             }
