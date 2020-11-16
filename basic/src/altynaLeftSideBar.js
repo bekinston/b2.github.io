@@ -78,7 +78,7 @@ class AltynaLeftSideBar extends React.Component {
     render() {
         return (
             <div id = "sidebar" class="dropdown">
-            <label class="dropbtn">Алтыналамас</label>
+            <label class="dropbtn">Алтыналмас</label>
                 <div class="dropdown-content">
                     {this.renderList()}
                 </div>
