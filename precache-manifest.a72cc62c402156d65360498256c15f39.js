@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "8d6fec178b8102d9a842",
-    "url": "/b2.github.io/static/js/main.773a397f.chunk.js"
+    "revision": "40d66754b31ff2db16f5",
+    "url": "/b2.github.io/static/js/main.b35f8577.chunk.js"
   },
   {
     "revision": "c70420e2b667773619f6",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/b2.github.io/static/media/lepk.3b0444d5.png"
   },
   {
-    "revision": "202bc0c02f2baefdb4380e43442a7c33",
+    "revision": "291df1a9c58c19f53d6505d5eca395d0",
     "url": "/b2.github.io/index.html"
   }
 ];
